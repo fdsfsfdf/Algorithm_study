@@ -3,7 +3,7 @@
 ==========
 이것이 코딩 테스트다 with 파이썬(저자- 나동빈 참고)
 
->##1. Greedy Algorithm   
+>## 1. Greedy Algorithm   
 현재 상황에서 가장 좋은 것만 선택   
 Dijkstra, Floyd-Warsahall 같은 알고리즘도 그리디 알고리즘에 속함   
 모든 상황에서 최적의 해를 보장하지는 않지만 맞는 케이스의 경우 효과적이고 직관적   

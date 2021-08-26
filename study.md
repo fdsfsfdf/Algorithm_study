@@ -1,6 +1,8 @@
 # study. md
 알고리즘 공부
 ==========
+이것이 코딩 테스트다 with 파이썬(저자- 나동빈 참고)
+
 >##1. Greedy Algorithm   
 현재 상황에서 가장 좋은 것만 선택   
 Dijkstra, Floyd-Warsahall 같은 알고리즘도 그리디 알고리즘에 속함   
